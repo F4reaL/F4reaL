@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- F4reaL -->
 <a href="#" target="_blank">
   <img src="svg/f4real.svg" width="1200" alt="Click to see the source" />
 </a>
@@ -67,17 +67,15 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <!-- <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a> -->
+  
   <a href="https://facebook.com/khanhhoa.d.nguyen.3" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="F4reaL-facebook" />
   </a>
-  <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <!-- <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="F4reaL-youtube" />
   </a> -->
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <!-- <a href="https://www.linkedin.com/in/kh%C3%A1nh-h%C3%B2a-nguy%E1%BB%85n-6a86aa244/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="F4reaL-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/d.nguyen.khanhhoa/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="F4reaL-instagram" />
