@@ -74,9 +74,9 @@
   <!-- <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="F4reaL-youtube" />
   </a> -->
-  <!-- <a href="https://www.linkedin.com/in/kh%C3%A1nh-h%C3%B2a-nguy%E1%BB%85n-6a86aa244/" target="blank">
+  <a href="https://www.linkedin.com/in/kh%C3%A1nh-h%C3%B2a-nguy%E1%BB%85n-6a86aa244/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="F4reaL-linkedin" />
-  </a> -->
+  </a>
   <a href="https://www.instagram.com/d.nguyen.khanhhoa/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="F4reaL-instagram" />
   </a>
