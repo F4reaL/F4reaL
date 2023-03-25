@@ -44,7 +44,7 @@
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp; -->
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=21759B" alt="NextJS logo" title="NextJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 
 <br>
